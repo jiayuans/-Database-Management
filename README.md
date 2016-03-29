@@ -1,2 +1,2 @@
-# MET CS 579 Database Management
+# MET CS 579: Database Management
 This course provides a theoretical yet modern presentation of database topics ranging from Data and Object Modeling to advanced topics such as using C++/Java to develop Web-based database applications. Other topics covered – relational data model, SQL and manipulating relational data; applications programming for relational databases; physical characteristics of databases; achieving performance and reliability with database systems; object-oriented and distributed information systems. 
